@@ -63,4 +63,4 @@
 
 #runtime
 **/runtime/**/lib.rs @sergioko737
-**/runtime-interface/**/lib.rs
+**/runtime-interface/**/lib.rs @sergioko737
