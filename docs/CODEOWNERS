@@ -62,4 +62,4 @@
 /frame/support/src/weights.rs @shawntabrizi
 
 #runtime
-**/runtime/**/lib.rs
+**/runtime/**/lib.rs @sergioko737
