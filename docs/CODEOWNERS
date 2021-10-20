@@ -60,3 +60,6 @@
 
 # Transaction weight stuff
 /frame/support/src/weights.rs @shawntabrizi
+
+#runtime
+**/runtime/**/lib.rs
